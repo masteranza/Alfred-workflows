@@ -1,6 +1,6 @@
 # Alfred-workflows
 
-##Translate
+##Translate (using Google Translate)
 
 ![alt text][screen]
 
